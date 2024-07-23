@@ -92,7 +92,7 @@ class Response(BaseModel):
     chatbot_options: List[ChatbotOption]
     next_question: int
     next_column_question: int
-gjoswjoewgjwoeig
+
 
 
 
